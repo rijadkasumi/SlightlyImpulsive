@@ -1,0 +1,25 @@
+.main {
+    background-image: url("../assets/Screen\ Shot\ 2023-05-12\ at\ 1.40.45\ AM.png");
+    background-position: top;
+    background-repeat: no-repeat;
+    background-size: cover;
+    background-color: #fafafa;
+
+}
+.title {
+    font-weight: bold;
+    font-size: 5em;
+}
+
+.subtitle {
+    display:inline-flex;
+    font-style: italic;
+    font-size: 2em;
+    background-color: #fafafa;
+}
+
+.searchBar {
+    width: 70%;
+    height: 60px;
+    font-size: 25px;
+}
